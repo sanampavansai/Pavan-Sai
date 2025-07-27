@@ -9,7 +9,7 @@
 - 📂 Automating Reports for Business Decision-Making
 
 🔧 Tools I Use:
-`EXcel` | `Tableau` | `Power BI` | `SQL Server` | `Google Sheets` | `MS Access`
+`Excel` | `Tableau` | `Power BI` | `SQL Server` | `Google Sheets` | `MS Access`
 
 📌 **Check my projects below for dashboards, SQL queries, and reporting examples!**
 
